@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 더 성장하고싶은 개발자의 기술 블로그입니다.
+title: 엔터프라이즈 애플리케이션 아키텍쳐 패턴 Study
 email: moon_ki@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   ....
@@ -32,7 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#메뉴추가
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
