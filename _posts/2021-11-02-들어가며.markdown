@@ -90,7 +90,7 @@ categories: jekyll update
 
     
 
-	-   B2B - koreanre  
+	-   B2B - K  
     
 
 		-   고객 수 적음
@@ -101,7 +101,7 @@ categories: jekyll update
 			-   []why?
     
 
-				-   재보험사이기 때문
+				-   재XXX이기 때문
     
 
 					-   보험사의 보험사 -> 계약의 내용 복잡
